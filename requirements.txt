@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+psycopg2-binary
+alembic
+python-dotenv
+numpy
+scikit-learn
+requests
+httpx
+loguru
+pytest
+openai>=1.0.0
